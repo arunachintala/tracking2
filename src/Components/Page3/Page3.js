@@ -4,7 +4,7 @@ import Page2 from '../pages/Page2';
 function Page3() {
     return (
 
-        <div style={{ width: '100%', backgroundColor: '#F5F8F8' }}>
+        <div style={{ width: '100%', backgroundColor: '#F5F8F8', border: '1px solid white' }}>
 
             <div>
                 <p style={{ marginTop: '2%', marginLeft: '30px', fontFamily: 'Poppins', fontWeight: 600, fontSize: '32px', lineHeight: '48px' }}>Zippyy Tracking</p>
