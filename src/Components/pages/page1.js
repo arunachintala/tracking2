@@ -92,28 +92,3 @@ function Page1() {
 }
 export default Page1;
 
-// {/* <div style={{ display: 'flex', justifyContent: 'flex-start', alignItems: 'flex-end' }}>
-// <button
-//     style={{
-
-//         backgroundColor: 'white',
-//         border: '1px solid black',
-//         borderRadius: '6px',
-//         padding: '1%',
-//         fontSize: '16px',
-//         fontWeight: '500',
-//         color: '#121114',
-//         textAlign: 'center',
-//         width: '240px',
-//         height: '36px',
-//         fontFamily: 'Poppins',
-//         display: 'flex',
-//         alignItems: 'center',
-//         justifyContent: 'center'
-//     }}
-// >
-//     Back
-// </button>
-
-
-// </div> */}

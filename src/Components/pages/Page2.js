@@ -55,8 +55,3 @@ export default Page2;
 
 
 
-// {/* <div style={{ paddingLeft: '85%' }}>
-
-// <p style={{ fontFamily: 'Poppins', fontWeight: '400', fontSize: '12px', lineHeight: '18px', color: '#121114' }}>Powered by Zippyy</p>
-
-// </div> */}

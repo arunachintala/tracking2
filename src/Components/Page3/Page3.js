@@ -75,6 +75,12 @@ function Page3() {
 
 
                     </div>
+
+                </div>
+                <div style={{ display: 'flex', justifyContent: 'flex-end' }}>
+
+                    <p style={{ fontFamily: 'Poppins', fontWeight: '400', fontSize: '12px', lineHeight: '18px', color: '#121114' }}>Powered by Zippyy</p>
+
                 </div>
             </div>
         </div>
