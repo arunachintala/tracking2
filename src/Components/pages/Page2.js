@@ -2,8 +2,7 @@ import React from 'react';
 import logo from '../../assets/zippyy_logo.svg';
 import Stepper from '../Stepper/HorizontalStepper'
 import post from '../../assets/post.png'
-import box from '../../assets/Vector.svg';
-import phone from '../../assets/Phone.svg'
+
 import Deliverydetails from '../Deliverydetails/Deliverydetails';
 import './page2.css'
 function Page2() {
@@ -44,37 +43,20 @@ function Page2() {
                 <Deliverydetails />
             </div>
 
-            <div style={{ width: '100%', marginTop: '5%', display: 'flex', flexDirection: 'column', backgroundColor: '#F5F8F8' }}>
 
 
-                <div style={{ paddingLeft: '5%', paddingTop: '3%', color: "#121114", fontFamily: 'Poppins', fontWeight: '500', fontSize: '22px', lineHeight: '33px' }}>
-                    <p>Contact Information</p>
-                </div>
-                <div style={{ paddingLeft: '5%', paddingTop: '1%', color: '#5F5A6B' }}>
-                    <img src={box} alt="logo" />
-                    <span style={{ paddingLeft: '1%', color: '#5F5A6B', fontWeight: '400', fontSize: '16px', lineHeight: '24px' }}> support@godash.ai</span>
-                </div>
-                <div style={{ paddingLeft: '5%', paddingTop: '1%', color: '#5F5A6B' }}>
-                    <img src={phone} alt="logo" />
-                    <span style={{ paddingLeft: '1%', fontWeight: '400', fontSize: '16px', lineHeight: '24px' }}> 1800097866</span>
-                </div>
-                <div style={{ paddingLeft: '1%', paddingTop: '1%', marginRight: '1%' }}>
-                    <hr style={{ width: '100%' }}></hr>
-                </div>
-                <div style={{ paddingLeft: '5%', paddingTop: '1%', color: "#0C77FF", fontFamily: 'Poppins', fontWeight: '400', fontSize: '10px', lineHeight: '15px' }}>
-                    <p>Privacy policy</p>
-                </div>
-
-
-            </div>
-            <div style={{ paddingLeft: '85%' }}>
-
-                <p style={{ fontFamily: 'Poppins', fontWeight: '400', fontSize: '12px', lineHeight: '18px', color: '#121114' }}>Powered by Zippyy</p>
-
-            </div>
         </div>
 
     );
 }
 
 export default Page2;
+
+
+
+
+// {/* <div style={{ paddingLeft: '85%' }}>
+
+// <p style={{ fontFamily: 'Poppins', fontWeight: '400', fontSize: '12px', lineHeight: '18px', color: '#121114' }}>Powered by Zippyy</p>
+
+// </div> */}
