@@ -69,7 +69,7 @@ function Page3() {
                         <div style={{ paddingLeft: '1%', paddingTop: '1%', marginRight: '1%' }}>
                             <hr style={{ width: '100%' }}></hr>
                         </div>
-                        <div style={{ paddingLeft: '5%', paddingTop: '1%', color: "#0C77FF", fontFamily: 'Poppins', fontWeight: '400', fontSize: '10px', lineHeight: '15px' }}>
+                        <div style={{ paddingLeft: '5%', paddingTop: '0.5%', paddingBottom: '0.5%', color: "#0C77FF", fontFamily: 'Poppins', fontWeight: '400', fontSize: '10px', lineHeight: '15px' }}>
                             <p>Privacy policy</p>
                         </div>
 
